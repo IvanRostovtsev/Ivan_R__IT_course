@@ -1,5 +1,5 @@
 # IT_course
-This repository contains lectures and homeworks for Maple course.
+This repository contains lectures and homeworks for Maple cours.
 
 | Week | Homework |
 |:------:|-------|
